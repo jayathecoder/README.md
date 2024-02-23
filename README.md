@@ -1,1 +1,7 @@
-# README.md
+- 👋 Hi, I’m @jayathecoder
+- 👀 I’m interested in development and coding.
+- 🌱 I’m currently learning spring boot.
+- 💞️ I’m looking to collaborate on development project.
+- 📫 How to reach me? Let's get connected on LinkedIn.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love interacting with new people :)
